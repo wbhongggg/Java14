@@ -11,7 +11,6 @@ public class Class04
       String str=new String(data,0,num);
       System.out.println("Characters read= "+num);
       System.out.println(str);
-
       fr.close();
    }
 }
