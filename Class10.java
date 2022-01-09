@@ -58,14 +58,14 @@ public class Class10
 
       for(i=1;(i<a.length)&&(flag==true);i++)
       {
-         flag=false;             // 將flat設為flase
+         flag=false;
          for(j=0;j<(a.length-i);j++)
             if(a[j]>a[j+1])
             {
-               temp=a[j];        // 對換陣列內的值
+               temp=a[j];
                a[j]=a[j+1];
                a[j+1]=temp;
-               flag=true;        // 對調後將flag設為true
+               flag=true;
             }
       }
       return;
