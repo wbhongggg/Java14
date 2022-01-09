@@ -1,6 +1,6 @@
 package Java14;
 import java.io.*;
-public class hw14_7
+public class Class07
 {
    public static void main(String args[]) throws IOException
    {
