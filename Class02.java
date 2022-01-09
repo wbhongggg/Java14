@@ -1,7 +1,7 @@
 package Java14;
 import java.util.Scanner;
 import java.lang.String;
-public class hw14_2
+public class Class02
 {
    public static void main(String args[])
    {
